@@ -10,7 +10,7 @@
 
 ⚡ Fun fact: I love cats
 
-### Main languages
+## Main languages
 
 ---
 
