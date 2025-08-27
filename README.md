@@ -11,6 +11,7 @@
 ⚡ Fun fact: I love cats
 
 ### Main languages
+
 ---
 
 <p/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" style="display:inline-block;"/>
