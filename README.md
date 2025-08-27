@@ -10,4 +10,8 @@
 
 ⚡ Fun fact: I love cats
 
-[<link href='//cdn.jsdelivr.net/devicons/1.8.0/css/devicons.min.css' rel='stylesheet'>]
+### Lenguajes que manejo
+
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
