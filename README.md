@@ -9,3 +9,5 @@
 📫 How to reach me ...
 
 ⚡ Fun fact: I love cats
+
+[<link href='//cdn.jsdelivr.net/devicons/1.8.0/css/devicons.min.css' rel='stylesheet'>]
