@@ -1,6 +1,6 @@
 # Hi everyone! 👋 I'm Benjamin
 
-💻 Systems Engineering student | 🚀 Project developer | ⚡ Agile methodologies enthusiast  
+💻 IT Engineering student | 🚀 Project developer | ⚡ Agile methodologies enthusiast  
 
 🌱 Always learning new technologies and improving my coding skills  
 💡 Passionate about building efficient and innovative software solutions  
