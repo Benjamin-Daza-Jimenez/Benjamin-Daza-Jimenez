@@ -12,8 +12,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" style="display:inline-block;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30" style="display:inline-block;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30" style="display:inline-block;"/>
-<img src="https://www.svgrepo.com/show/8901/json-file.svg" alt="JSON" width="30" height="30" style="display:inline-block;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="JSON" width="30" height="30" style="display:inline-block;"/>
 
 ## Tools & Databases
-<img src="..." alt="MySQL" width="30" height="30"/>
-<img src="..." alt="MongoDB" width="30" height="30"/>
+
+<p/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30" style="display:inline-block;"/>
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Django.png" alt="Django" width="30" height="30" style="display:inline-block;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30" style="display:inline-block;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30" style="display:inline-block;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30" style="display:inline-block;"/>
