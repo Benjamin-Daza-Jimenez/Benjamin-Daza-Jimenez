@@ -1,14 +1,9 @@
-👋 Hi, I’m Benjamin, I'm IT student
+# Hi everyone! 👋 I'm Benjamin
 
-🌱 I’m currently learning complex algorithms in C++, project organization, Front End/Back End and advanced BD
+💻 Systems Engineering student | 🚀 Project developer | ⚡ Agile methodologies enthusiast  
 
-👀 I’m interested in manage projects.
-
-💞️ I am looking to collaborate with my team, creating web pages.
-
-📫 How to reach me ...
-
-⚡ Fun fact: I love cats
+🌱 Always learning new technologies and improving my coding skills  
+💡 Passionate about building efficient and innovative software solutions  
 
 ## Main languages
 
