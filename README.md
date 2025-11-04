@@ -5,6 +5,11 @@
 🌱 Always learning new technologies and improving my coding skills  
 💡 Passionate about building efficient and innovative software solutions  
 
+## WorkSpace
+**🚀 [My Projects](https://github.com/stars/Benjamin-Daza-Jimenez/lists/mis-proyectos)**
+
+**🔬 [Laboratories and Homework](https://github.com/stars/Benjamin-Daza-Jimenez/lists/laboratorios-y-tareas)**
+
 ## Main languages
 
 <p/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" style="display:inline-block;"/>
